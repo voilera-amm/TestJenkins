@@ -7,6 +7,7 @@ public class testJenkins {
 			
 			System.out.println("Hello World... ");
 			System.out.println("reccurence"+i);
+			System.out.println("jenkinstry"+i);
 		}
 
 	}
